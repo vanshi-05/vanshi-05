@@ -32,7 +32,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Concepts  
-**DSA • DBMS • Operating Systems • OOPS • AI • Problem Solving**
+**DSA • DBMS • Operating Systems • OOPS • AI • ML • Problem Solving**
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vanshi-05&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
