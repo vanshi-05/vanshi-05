@@ -34,20 +34,11 @@
 ### Concepts  
 **DSA • DBMS • Operating Systems • OOPS • AI • ML • Problem Solving**
 
-## 📊 GitHub Stats:
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vanshi-05&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vanshi-05&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshi-05&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
-
-  <!-- Streak Stats Card -->
-  <img src="https://streak-stats.demolab.com?user=your-github-username&theme=radical" alt="GitHub Streak" width="50%"/>
-
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Most Used Languages" width="50%"/>
-
-</div>
 
 
 
