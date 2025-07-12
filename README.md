@@ -7,7 +7,7 @@
 
 ---
 # 💫 About Me:
-<br>🎓 3rd Year B.Tech CSE (AI & ML) student at SRM Institute of Science and Technology   <br>💡 Passionate about Artificial Intelligence, Machine Learning, and Full-Stack Development  <br>🚀 I love building real-world projects that solve meaningful problems  <br>🧠 Experienced in working on domains like EduTech, NLP and Automated Systems  <br>🔧 Tech Stack: Python, JavaScript, React, Node.js, MongoDB, MySQL, Streamlit, Flask  <br>☁️ Interned at NIT Calicut and CodSoft, contributing to applied AI solutions  <br>🤝 Active member at ISTE <br>📈 Currently exploring Agentic AI, Generative Models, and Scalable Web Apps  <br>🌱 Always open to new ideas, collaborations, and challenges!
+<br>🎓 3rd Year B.Tech CSE (AI & ML) student at SRM Institute of Science and Technology   <br>💡 Passionate about Artificial Intelligence, Machine Learning, and Full-Stack Development  <br>🚀 I love building real-world projects that solve meaningful problems  <br>🧠 Experienced in working on domains like EduTech, NLP and Automated Systems  <br> ☁️ Interned at NIT Calicut and CodSoft, contributing to applied AI solutions  <br>🤝 Active member at ISTE <br>📈 Currently exploring Agentic AI, Generative Models, and Scalable Web Apps  <br>🌱 Always open to new ideas, collaborations, and challenges!
 
 
 ## 🌐 Socials:
