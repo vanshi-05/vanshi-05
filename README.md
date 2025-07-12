@@ -45,7 +45,7 @@
   <img src="https://streak-stats.demolab.com?user=your-github-username&theme=radical" alt="GitHub Streak" width="50%"/>
 
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Most Used Languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Most Used Languages" width="50%"/>
 
 </div>
 
